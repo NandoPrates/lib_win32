@@ -1,0 +1,1 @@
+Win32 libraries for Openkore compiled with ActivePerl 5.24.0 build 2400 (x86-64)
